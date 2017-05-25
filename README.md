@@ -1,0 +1,1 @@
+# CPP-QT-2017-1-Qbs-Slave
